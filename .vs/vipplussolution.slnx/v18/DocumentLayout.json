@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\eren\\source\\repos\\vipplussolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C582FB2F-A176-DF8D-5B7A-AB0511111F26}|vipplussolution\\vipplussolution.csproj|c:\\users\\eren\\source\\repos\\vipplussolution\\vipplussolution\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C582FB2F-A176-DF8D-5B7A-AB0511111F26}|vipplussolution\\vipplussolution.csproj|solutionrelative:vipplussolution\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C582FB2F-A176-DF8D-5B7A-AB0511111F26}|vipplussolution\\vipplussolution.csproj|c:\\users\\eren\\source\\repos\\vipplussolution\\vipplussolution\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C582FB2F-A176-DF8D-5B7A-AB0511111F26}|vipplussolution\\vipplussolution.csproj|solutionrelative:vipplussolution\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C582FB2F-A176-DF8D-5B7A-AB0511111F26}|vipplussolution\\vipplussolution.csproj|c:\\users\\eren\\source\\repos\\vipplussolution\\vipplussolution\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C582FB2F-A176-DF8D-5B7A-AB0511111F26}|vipplussolution\\vipplussolution.csproj|solutionrelative:vipplussolution\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C582FB2F-A176-DF8D-5B7A-AB0511111F26}|vipplussolution\\vipplussolution.csproj|c:\\users\\eren\\source\\repos\\vipplussolution\\vipplussolution\\views\\home\\addindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C582FB2F-A176-DF8D-5B7A-AB0511111F26}|vipplussolution\\vipplussolution.csproj|solutionrelative:vipplussolution\\views\\home\\addindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C582FB2F-A176-DF8D-5B7A-AB0511111F26}|vipplussolution\\vipplussolution.csproj|c:\\users\\eren\\source\\repos\\vipplussolution\\vipplussolution\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C582FB2F-A176-DF8D-5B7A-AB0511111F26}|vipplussolution\\vipplussolution.csproj|solutionrelative:vipplussolution\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\eren\\source\\repos\\vipplussolution\\vipplussolution\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "vipplussolution\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\eren\\source\\repos\\vipplussolution\\vipplussolution\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "vipplussolution\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAwBoAAABwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-07T15:45:25.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddIndex.cshtml",
+              "DocumentMoniker": "C:\\Users\\eren\\source\\repos\\vipplussolution\\vipplussolution\\Views\\Home\\AddIndex.cshtml",
+              "RelativeDocumentMoniker": "vipplussolution\\Views\\Home\\AddIndex.cshtml",
+              "ToolTip": "C:\\Users\\eren\\source\\repos\\vipplussolution\\vipplussolution\\Views\\Home\\AddIndex.cshtml",
+              "RelativeToolTip": "vipplussolution\\Views\\Home\\AddIndex.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-07T15:40:15.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\eren\\source\\repos\\vipplussolution\\vipplussolution\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "vipplussolution\\Models\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\eren\\source\\repos\\vipplussolution\\vipplussolution\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "vipplussolution\\Models\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T15:26:07.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\eren\\source\\repos\\vipplussolution\\vipplussolution\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "vipplussolution\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\eren\\source\\repos\\vipplussolution\\vipplussolution\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "vipplussolution\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwB8AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T15:13:29.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\eren\\source\\repos\\vipplussolution\\vipplussolution\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "vipplussolution\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\eren\\source\\repos\\vipplussolution\\vipplussolution\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "vipplussolution\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-04T13:06:19.013Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
