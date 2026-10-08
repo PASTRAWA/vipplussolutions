@@ -31,7 +31,14 @@ namespace vipplussolution.Controllers
                 context.Turlar.Add(tur);
                 context.SaveChanges();
             }
-            return RedirectToAction("Ekle");
+            return RedirectToAction("AddIndex");
+        }
+        public IActionResult Sil(int id)
+        {
+            using (var context = new AppDbContext())
+            {
+                Tours tour = context.Turlar.Fin(id);
+            }
         }
     }
 }

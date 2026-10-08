@@ -1,0 +1,336 @@
+﻿21 matches found: 
+<match path=C:\Users\eren\Desktop\vipplussolutions\vipplussolution\Models\Tours.cs>
+    File: `vipplussolution/Models/Tours.cs`
+```c#
+/*...*/namespace vipplussolution.Models
+{
+    public class Tours
+    {
+        public int Id { get; set; }
+        public string tarih { get; set; }
+        public string saat { get; set; }
+        public string nereden { get; set; }
+        public string nereye { get; set; }
+        public string yolcular { get; set; }
+        public string acenta { get; set; }
+        public int fiyat { get; set; }
+    }
+}
+
+```
+</match>
+<match path=C:\Users\eren\Desktop\vipplussolutions\vipplussolution\Models\Tours.cs>
+    File: `vipplussolution/Models/Tours.cs`
+```c#
+/*...*/namespace vipplussolution.Models
+{
+    public class Tours
+    {
+        public int Id { get; set; }
+        public string tarih { get; set; }
+        public string saat { get; set; }
+        public string nereden { get; set; }
+        public string nereye { get; set; }
+        public string yolcular { get; set; }
+        public string acenta { get; set; }
+        public int fiyat { get; set; }
+    }
+}
+
+```
+</match>
+<match path=C:\Users\eren\Desktop\vipplussolutions\vipplussolution\Views\Home\Index.cshtml>
+    File: `vipplussolution/Views/Home/Index.cshtml`
+```html+razor
+﻿@model IEnumerable<vipplussolution.Models.Tours>
+@foreach(var item in Model)
+{
+    <tr>
+        <td>@item.Id</td>
+        <td>@item.tarih</td>
+        <td>@item.saat</td>
+        <td>@item.nereden</td>
+        <td>@item.nereye</td>
+        <td>@item.yolcular</td>
+        <td>@item.acenta</td>
+        <td>@item.fiyat</td>
+    </tr>
+<br />
+}
+```
+</match>
+<match path=C:\Users\eren\Desktop\vipplussolutions\vipplussolution\Views\Home\Index.cshtml>
+    File: `vipplussolution/Views/Home/Index.cshtml`
+```html+razor
+﻿@model IEnumerable<vipplussolution.Models.Tours>
+@foreach(var item in Model)
+{
+    <tr>
+        <td>@item.Id</td>
+        <td>@item.tarih</td>
+        <td>@item.saat</td>
+        <td>@item.nereden</td>
+        <td>@item.nereye</td>
+        <td>@item.yolcular</td>
+        <td>@item.acenta</td>
+        <td>@item.fiyat</td>
+    </tr>
+<br />
+}
+```
+</match>
+<match path=C:\Users\eren\Desktop\vipplussolutions\vipplussolution\Views\Home\AddIndex.cshtml>
+    File: `vipplussolution/Views/Home/AddIndex.cshtml`
+```html+razor
+﻿@model vipplussolution.Models.Tours
+<form asp-action="Ekle" asp-controller="Home" method="post">
+    <div class="form-group row">
+        <div class="col-sm-10">
+            <input type="date" class="form-control" asp-for="tarih" placeholder="Tarih" />
+            <input type="time" class="form-control" asp-for="saat" placeholder="Saat"/>
+            <input type="text" class="form-control" asp-for="nereden" placeholder="Nereden"/>
+            <input type="text" class="form-control" asp-for="nereye" placeholder="Nereye"/>
+            <input type="text" class="form-control" asp-for="yolcular" placeholder="Yolcular"/>
+            <input type="text" class="form-control" asp-for="acenta" placeholder="Acenta"/>
+            <input type="number" class="form-control" asp-for="fiyat" placeholder="Fiyat"/>
+        </div>
+    </div>
+</form>
+...
+```
+</match>
+<match path=C:\Users\eren\Desktop\vipplussolutions\vipplussolution\Views\Home\AddIndex.cshtml>
+    // Lines 14 to 15
+</match>
+<match path=C:\Users\eren\Desktop\vipplussolutions\.vs\vipplussolution.slnx\v18\HierarchyCache.v1.txt>
+    // Lines 256 to 263
+</match>
+<match path=C:\Users\eren\Desktop\vipplussolutions\.vs\vipplussolution.slnx\v18\HierarchyCache.v1.txt>
+    // Lines 39 to 47
+</match>
+<match path=C:\Users\eren\Desktop\vipplussolutions\vipplussolution\Migrations\20261007153810_mig1.cs>
+    // Lines 12 to 24
+</match>
+<match path=C:\Users\eren\Desktop\vipplussolutions\vipplussolution\Migrations\20261007153810_mig1.cs>
+    // Lines 12 to 24
+</match>
+<match path=C:\Users\eren\Desktop\vipplussolutions\vipplussolution\Views\Shared\_Layout.cshtml.css>
+    File: `vipplussolution/Views/Shared/_Layout.cshtml.css`
+```css
+﻿/* Please see documentation at https://learn.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+a {
+  color: #0077cc;
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active, .nav-pills .show > .nav-link {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.border-top {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy {
+...
+```
+</match>
+<match path=C:\Users\eren\Desktop\vipplussolutions\vipplussolution\Views\Shared\_Layout.cshtml.css>
+    // Lines 37 to 48
+</match>
+<match path=C:\Users\eren\Desktop\vipplussolutions\vipplussolution\Migrations\AppDbContextModelSnapshot.cs>
+    // Lines 16 to 47
+</match>
+<match path=C:\Users\eren\Desktop\vipplussolutions\vipplussolution\Migrations\AppDbContextModelSnapshot.cs>
+    // Lines 16 to 47
+</match>
+<match path=C:\Users\eren\Desktop\vipplussolutions\vipplussolution\Controllers\HomeController.cs>
+    File: `vipplussolution/Controllers/HomeController.cs`
+```c#
+using Microsoft.AspNetCore.Mvc;
+using System.Diagnostics;
+using System.Security.Cryptography.X509Certificates;
+using vipplussolution.Models;
+
+namespace vipplussolution.Controllers
+{
+    public class HomeController : Controller
+    {
+        public IActionResult Index()
+        {
+            using (var context = new AppDbContext())
+            {
+                var turlar = context.Turlar.ToList();
+                return View(turlar);
+            }
+        }
+
+        public IActionResult AddIndex()
+        {
+            using(var context = new AppDbContext())
+            {
+                return View();
+            }
+        }
+
+       public IActionResult Ekle(Tours tur)
+        {
+            using(var context = new AppDbContext())
+            {
+                context.Turlar.Add(tur);
+                context.SaveChanges();
+            }
+            return RedirectToAction("Ekle");
+        }
+    }
+}
+
+```
+</match>
+<match path=C:\Users\eren\Desktop\vipplussolutions\vipplussolution\Controllers\HomeController.cs>
+    File: `vipplussolution/Controllers/HomeController.cs`
+```c#
+using Microsoft.AspNetCore.Mvc;
+using System.Diagnostics;
+using System.Security.Cryptography.X509Certificates;
+using vipplussolution.Models;
+
+namespace vipplussolution.Controllers
+{
+    public class HomeController : Controller
+    {
+        public IActionResult Index()
+        {
+            using (var context = new AppDbContext())
+            {
+                var turlar = context.Turlar.ToList();
+                return View(turlar);
+            }
+        }
+
+        public IActionResult AddIndex()
+        {
+            using(var context = new AppDbContext())
+            {
+                return View();
+            }
+        }
+
+       public IActionResult Ekle(Tours tur)
+        {
+            using(var context = new AppDbContext())
+            {
+                context.Turlar.Add(tur);
+                context.SaveChanges();
+            }
+            return RedirectToAction("Ekle");
+        }
+    }
+}
+
+```
+</match>
+<match path=C:\Users\eren\Desktop\vipplussolutions\vipplussolution\obj\Debug\net10.0\vipplussolution.csproj.FileListAbsolute.txt>
+    // Lines 33 to 36
+</match>
+<match path=C:\Users\eren\Desktop\vipplussolutions\vipplussolution\Views\Shared\_Layout.cshtml>
+    File: `vipplussolution/Views/Shared/_Layout.cshtml`
+```html+razor
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - vipplussolution</title>
+    <script type="importmap"></script>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/vipplussolution.styles.css" asp-append-version="true" />
+</head>
+<body>
+    <header>
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+            <div class="container-fluid">
+                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">vipplussolution</a>
+...
+```
+</match>
+<match path=C:\Users\eren\Desktop\vipplussolutions\vipplussolution\Views\Shared\_Layout.cshtml>
+    // Lines 16 to 38
+</match>
+<match path=C:\Users\eren\Desktop\vipplussolutions\vipplussolution\Program.cs>
+    File: `vipplussolution/Program.cs`
+```c#
+using vipplussolution.Models;
+var builder = WebApplication.CreateBuilder(args);
+// Add services to the container.
+builder.Services.AddControllersWithViews();
+
+var app = builder.Build();
+
+// Configure the HTTP request pipeline.
+if (!app.Environment.IsDevelopment())
+{
+    app.UseExceptionHandler("/Home/Error");
+    // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
+    app.UseHsts();
+}
+
+app.UseHttpsRedirection();
+app.UseRouting();
+
+app.UseAuthorization();
+
+app.MapStaticAssets();
+
+app.MapControllerRoute(
+    name: "default",
+    pattern: "{controller=Home}/{action=Index}/{id?}")
+    .WithStaticAssets();
+
+
+app.Run();
+
+```
+</match>
+<match path=C:\Users\eren\Desktop\vipplussolutions\vipplussolution\Models\AppDbContext.cs>
+    File: `vipplussolution/Models/AppDbContext.cs`
+```c#
+/*...*/using Microsoft.EntityFrameworkCore;
+
+namespace vipplussolution.Models
+{
+    public class AppDbContext : DbContext
+    {
+        public DbSet<Tours> Turlar { get; set; }
+        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+        {
+            optionsBuilder.UseSqlServer("Data Source=localhost;Database=vipPlus;Integrated Security=True;Trust Server Certificate=True");
+        }
+    }
+}
+
+```
+</match>

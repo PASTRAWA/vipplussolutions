@@ -1,5 +1,5 @@
 ﻿@model vipplussolution.Models.Tours
-<form asp-action="Ekle" asp-controller="Home" method="post">
+<form asp-action="Ekle" asp-controller="Home">
     <div class="form-group row">
         <div class="col-sm-10">
             <input type="date" class="form-control" asp-for="tarih" placeholder="Tarih" />
@@ -11,5 +11,5 @@
             <input type="number" class="form-control" asp-for="fiyat" placeholder="Fiyat"/>
         </div>
     </div>
+    <button class="btn btn-primary" type="submit">Ekle</button>
 </form>
-<button class="btn btn-primary" type="submit">Ekle</button>

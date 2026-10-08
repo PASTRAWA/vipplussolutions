@@ -1,0 +1,31 @@
+﻿@model IEnumerable<vipplussolution.Models.Tours>
+<table class="table">
+    <thead>
+        <tr>
+            <th scope="col">NO</th>
+            <th scope="col">TARİH</th>
+            <th scope="col">SAAT</th>
+            <th scope="col">NEREDEN</th>
+            <th scope="col">NEREYE</th>
+            <th scope="col">YOLCULAR</th>
+            <th scope="col">ACENTA</th>
+            <th scope="col">FİYAT</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th scope="row">sa</th>
+            @foreach(var item in Model)
+            {
+                <td>@item.tarih</td>
+                <td>@item.saat</td>
+                <td>@item.nereden</td>
+                <td>@item.nereye</td>
+                <td>@item.yolcular</td>
+                <td>@item.acenta</td>
+                <td>@item.fiyat</td>
+            }
+        </tr>
+    </tbody>
+</table>
+<br />

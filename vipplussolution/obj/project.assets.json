@@ -3152,11 +3152,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\eren\\source\\repos\\vipplussolution\\vipplussolution\\vipplussolution.csproj",
+      "projectUniqueName": "C:\\Users\\eren\\Desktop\\vipplussolutions\\vipplussolution\\vipplussolution.csproj",
       "projectName": "vipplussolution",
-      "projectPath": "C:\\Users\\eren\\source\\repos\\vipplussolution\\vipplussolution\\vipplussolution.csproj",
+      "projectPath": "C:\\Users\\eren\\Desktop\\vipplussolutions\\vipplussolution\\vipplussolution.csproj",
       "packagesPath": "C:\\Users\\eren\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\eren\\source\\repos\\vipplussolution\\vipplussolution\\obj\\",
+      "outputPath": "C:\\Users\\eren\\Desktop\\vipplussolutions\\vipplussolution\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
